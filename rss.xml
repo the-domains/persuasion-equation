@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Persuasion Equation]]></title>
         <description><![CDATA[Persuasion Equation]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/persuasion-equation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 00:59:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 May 2016 01:03:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/persuasion-equation/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Stop Settling.]]></title>
             <description><![CDATA[<p>When it comes to the quality of your work, you’re either disciplined or you’re disappointing. Whether you’re trying to climb out of the corporate catacombs, sail the sea of startups or advance academia - all you need to do is walk further than the middle of the road. Or better, run!</p>]]></description>
-            <link>undefinedstop-settling/index.html</link>
+            <link>https://thegrid.ai/persuasion-equation/stop-settling/index.html</link>
             <guid isPermaLink="false">2fe434b9-4de3-4931-a042-aaa7b93ef007</guid>
-            <pubDate>Mon, 09 May 2016 00:59:23 GMT</pubDate>
+            <pubDate>Mon, 09 May 2016 01:02:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
