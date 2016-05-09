@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Persuasion Equation]]></title>
+        <description><![CDATA[Persuasion Equation]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 09 May 2016 00:59:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stop Settling.]]></title>
+            <description><![CDATA[<p>When it comes to the quality of your work, you’re either disciplined or you’re disappointing. Whether you’re trying to climb out of the corporate catacombs, sail the sea of startups or advance academia - all you need to do is walk further than the middle of the road. Or better, run!</p>]]></description>
+            <link>undefinedstop-settling/index.html</link>
+            <guid isPermaLink="false">2fe434b9-4de3-4931-a042-aaa7b93ef007</guid>
+            <pubDate>Mon, 09 May 2016 00:59:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
