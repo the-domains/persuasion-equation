@@ -1,0 +1,28 @@
+name: Persuasion Equation
+favicon: null
+layout_spectrum: 0.9613047318998724
+typography_spectrum: 0.4108853046782315
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.31211840989999473
+  lightness: 0.33503416110761464
+  saturation: 0.5320395552553236
+  rhythmicContrast: 0.5605808468535542
+purpose: []
