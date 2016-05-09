@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'When it comes to the quality of your work, you’re either disciplined or you’re disappointing. Whether you’re trying to climb out of the corporate catacombs, sail the sea of startups or advance academia - all you need to do is walk further than the middle of the road. Or better, run!'
-datePublished: '2016-05-09T01:02:29.212Z'
-dateModified: '2016-05-09T01:02:07.929Z'
+datePublished: '2016-05-09T01:50:50.749Z'
+dateModified: '2016-05-09T01:50:47.409Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-stop-settling.md
@@ -21,8 +21,6 @@ url: stop-settling/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e38abc8-11c5-4030-aa13-80635344d32c.png)
-
 When it comes to the quality of your work, you're either disciplined or you're disappointing. Whether you're trying to climb out of the corporate catacombs, sail the sea of startups or advance academia - all you need to do is walk further than the middle of the road. Or better, **run!**
 
 In the pursuit of excellence, it's so easy to become distracted by adequacy. What's satisfactory, sufficient or 'enough.' But there's no quicker way to suppress finesse than to measure success on how far you've got to go. In doing so, you end up working backwards from a fixed point, which inhibits your ability to deliver impressive work that exhibits your discipline.
@@ -31,11 +29,7 @@ In fact, everything you know today is enough to make you outstanding tomorrow. Y
 
 > _"There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living."__--**Nelson Mandela**_
 
-Learn to recognise self-protective strategies that rationalise mediocre work, or those which discount potential, and confront them head-on. Fire up those critical faculties and be persistent in putting your work, as well as the work you accept from others, under the microscope. Make a habit of asking questions, such as:
-
-* "Will this be settling for less than what is possible, today?"
-* "Is this the best solution, or the most convenient?"
-* "Am I / Are you treading water?"
+Learn to recognise self-protective strategies that rationalise mediocre work, or those which discount potential, and confront them head-on. Fire up those critical faculties and be persistent in putting your work, as well as the work you accept from others, under the microscope. 
 
 Harnessing the power of constructive self-criticism not only exercises your ability to self-correct, it also demonstrates your accountability and commitment to exceeding expectations. In turn, you'll learn how to pick the faults in your work before someone else does, you'll avoid repeating mistakes in the future, and you'll grow to appreciate how far you can go -- not just how far you've got to go!
 
