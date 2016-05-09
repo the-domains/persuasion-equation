@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'When it comes to the quality of your work, you’re either disciplined or you’re disappointing. Whether you’re trying to climb out of the corporate catacombs, sail the sea of startups or advance academia - all you need to do is walk further than the middle of the road. Or better, run!'
-datePublished: '2016-05-09T01:53:06.784Z'
-dateModified: '2016-05-09T01:52:19.188Z'
+datePublished: '2016-05-09T01:59:20.661Z'
+dateModified: '2016-05-09T01:54:07.829Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-stop-settling.md
