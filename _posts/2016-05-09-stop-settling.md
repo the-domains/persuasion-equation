@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'When it comes to the quality of your work, you’re either disciplined or you’re disappointing. Whether you’re trying to climb out of the corporate catacombs, sail the sea of startups or advance academia - all you need to do is walk further than the middle of the road. Or better, run!'
-datePublished: '2016-05-10T03:45:38.972Z'
-dateModified: '2016-05-10T03:45:16.980Z'
+datePublished: '2016-05-10T03:47:40.603Z'
+dateModified: '2016-05-10T03:47:33.113Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-stop-settling.md
@@ -21,8 +21,9 @@ url: stop-settling/index.html
 _type: Article
 
 ---
-When it comes to the quality of your work, you're either disciplined or you're disappointing. Whether you're trying to climb out of the corporate catacombs, sail the sea of startups or advance academia - all you need to do is walk further than the middle of the road. Or better, **run!**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf8f9445-9871-44a1-b231-0c30e3c6311b.jpg)
+
+When it comes to the quality of your work, you're either disciplined or you're disappointing. Whether you're trying to climb out of the corporate catacombs, sail the sea of startups or advance academia - all you need to do is walk further than the middle of the road. Or better, **run!**
 
 In the pursuit of excellence, it's so easy to become distracted by adequacy. What's satisfactory, sufficient or 'enough.' But there's no quicker way to suppress finesse than to measure success on how far you've got to go. In doing so, you end up working backwards from a fixed point, which inhibits your ability to deliver impressive work that exhibits your discipline.
 
