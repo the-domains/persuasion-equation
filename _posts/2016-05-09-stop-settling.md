@@ -4,9 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Whether you’re trying to climb out of the corporate catacombs, sail the sea of startups or advance academia - all you need to do is walk further than the middle of the road. Or better, run!'
-datePublished: '2016-05-10T03:59:57.444Z'
-dateModified: '2016-05-10T03:59:51.687Z'
+description: >-
+  Whether you’re trying to climb out of the corporate catacombs, sail the sea of
+  startups or advance academia - all you need to do is walk further than the
+  middle of the road. Or better, run!
+datePublished: '2016-06-09T03:53:25.011Z'
+dateModified: '2016-05-10T04:00:05.902Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-stop-settling.md
